@@ -20,7 +20,7 @@ This WordPress plugin adaptation was built to enable easier inetgration of Tippi
 **WARNING: Tippin.me relies on both third party lightning nodes and servers controlled by Tippin.me - but not the creators of this plugin. Additionally the lightning network software is in beta and considered high risk. Please perform your own due diligence before using this plugin.**
 
 **Like this plugin?** 
-If you find this plugin useful, please consider leaving a lightning tip for [@eipro](https://tippin.me/@eiprol) (creator of Tippin.me) and [@danielmcclure](https://tippin.me/@danielmcclure) (creator of Tippin.me for WordPress plugin).
+If you find this plugin useful, please consider leaving a lightning tip for [@eiprol](https://tippin.me/@eiprol) (creator of Tippin.me) and [@danielmcclure](https://tippin.me/@danielmcclure) (creator of Tippin.me for WordPress plugin).
 
 **Thanks for your support!**
 

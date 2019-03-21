@@ -8,8 +8,8 @@ Tippin.me is advertised as a service to receive tips and micro-payments everywhe
 
 This WordPress plugin adaptation was built to enable easier integration of Tippin.me payment buttons on WordPress. It automatically adds a button at the bottom of all of your WordPress posts which link through to the hosted Tippin.me service for receiving lighting tips.
 
-### WARNING: 
-**Tippin.me relies on both third party lightning nodes and servers controlled by Tippin.me - but not the creators of this plugin. Additionally the lightning network software is in beta and considered high risk. Please perform your own due diligence before using this plugin.**
+> ### WARNING: 
+> **Tippin.me relies on both third party lightning nodes and servers controlled by Tippin.me - but not the creators of this plugin. Additionally the lightning network software is in beta and considered high risk. Please perform your own due diligence before using this plugin.**
 
 ### Like this plugin?
 
@@ -28,14 +28,14 @@ If you find this plugin useful, please consider leaving a lightning tip for [@ei
 
 ## Changelog 
 
-= 0.1.0 =
+### 0.1.0 =
 * Initial GitHub release.
 
 ## WordPress Meta
-Contributors: danielmcclure, eiprol
-Donate link: https://tippin.me/@danielmcclure
-Tags: bitcoin, lightning, donate, donations, cryptocurrency
-Requires at least: 3.0
-Tested up to: 5.1.1
-Stable tag: trunk
-License: GPLv3 or later
+* Contributors: danielmcclure, eiprol
+* Donate link: https://tippin.me/@danielmcclure
+* Tags: bitcoin, lightning, donate, donations, cryptocurrency
+* Requires at least: 3.0
+* Tested up to: 5.1.1
+* Stable tag: trunk
+* License: GPLv3 or later

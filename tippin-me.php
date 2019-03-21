@@ -93,7 +93,7 @@ class TippinMeSettings {
 
 	// Print the Section text
 	public function print_section_info() {
-		print '<p>If you find this plugin useful, please consider sending a lightning tip to <a href="https://tippin.me/@eiprol" target="_blank" rel="noopener noreferrer">@eipro</a> (creator of Tippin.me) and <a href="https://tippin.me/@danielmcclure" target="_blank" rel="noopener noreferrer">@danielmcclure</a> (creator of Tippin.me for WordPress plugin).</p><p>To enable <a href="https://tippin.me/?utm_source=wordpress&utm_campaign=wordpress-plugin&utm_medium=referral" target="_blank" rel="noopener noreferrer">Tippin.me</a> buttons below your WordPress posts, simply enter your account details below...</p>';
+		print '<p>If you find this plugin useful, please consider sending a lightning tip to <a href="https://tippin.me/@eiprol" target="_blank" rel="noopener noreferrer">@eiprol</a> (creator of Tippin.me) and <a href="https://tippin.me/@danielmcclure" target="_blank" rel="noopener noreferrer">@danielmcclure</a> (creator of Tippin.me for WordPress plugin).</p><p>To enable <a href="https://tippin.me/?utm_source=wordpress&utm_campaign=wordpress-plugin&utm_medium=referral" target="_blank" rel="noopener noreferrer">Tippin.me</a> buttons below your WordPress posts, simply enter your account details below...</p>';
 	}
 
 	// Get the settings option array and print one of its values

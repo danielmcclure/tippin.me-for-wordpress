@@ -13,7 +13,7 @@ This WordPress plugin adaptation was built to enable easier integration of Tippi
 
 ### Like this plugin?
 
-Please consider leaving a lightning tip for [@eipro](https://tippin.me/@eiprol) (creator of Tippin.me) and [@danielmcclure](https://tippin.me/@danielmcclure) (creator of Tippin.me for WordPress plugin).
+Please consider leaving a lightning tip for [@eiprol](https://tippin.me/@eiprol) (creator of Tippin.me) and [@danielmcclure](https://tippin.me/@danielmcclure) (creator of Tippin.me for WordPress plugin).
 
 **Thanks for your support!**
 

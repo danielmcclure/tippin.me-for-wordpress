@@ -1,18 +1,18 @@
 # Tippin.me for WordPress
 
-Tippin.me for WordPress allows you to easily integrate Tippin.me links below your WordPress posts to accept Bitcoin Lightning donations.
+Tippin.me for WordPress allows you to easily integrate [Tippin.me](https://tippin.me/?utm_source=wordpress&utm_campaign=wordpress-plugin&utm_medium=referral) links below your WordPress posts to accept Bitcoin Lightning donations.
 
 ## Detailed Description
 
-Tippin.me is adverised as a service to receive tips and micro-payments everywhere with a Lightning Network wallet that you can cash out at anytime. 
+Tippin.me is advertised as a service to receive tips and micro-payments everywhere with a Lightning Network wallet that you can cash out at anytime. Tippin.me makes using the Lightning Network easier, by giving you a simple web custodial wallet to receive and manage Bitcoins through the Lightning Network. 
 
-Tippin.me makes Lightning Network easier, by giving you a simple web custodial wallet to receive and manage Bitcoins through Lightning Network. 
+This WordPress plugin adaptation was built to enable easier integration of Tippin.me payment buttons on WordPress. It automatically adds a button at the bottom of all of your WordPress posts which link through to the hosted Tippin.me service for receiving lighting tips.
 
-This WordPress plugin adaptation was built to enable easier inetgration of Tippin.me payment buttons on WordPress. It automatically adds a button at the bottom of all of your WordPress posts that link through to the Tippin.me service for receiving lighting tips.
+### WARNING: 
+**Tippin.me relies on both third party lightning nodes and servers controlled by Tippin.me - but not the creators of this plugin. Additionally the lightning network software is in beta and considered high risk. Please perform your own due diligence before using this plugin.**
 
-**WARNING: Tippin.me relies on both third party lightning nodes and servers controlled by Tippin.me - but not the creators of this plugin. Additionally the lightning network software is in beta and considered high risk. Please perform your own due diligence before using this plugin.**
+### Like this plugin?
 
-**Like this plugin?** 
 If you find this plugin useful, please consider leaving a lightning tip for [@eipro](https://tippin.me/@eiprol) (creator of Tippin.me) and [@danielmcclure](https://tippin.me/@danielmcclure) (creator of Tippin.me for WordPress plugin).
 
 **Thanks for your support!**
@@ -26,7 +26,7 @@ If you find this plugin useful, please consider leaving a lightning tip for [@ei
 
 **Note: You will need to sign up with an account at [Tippin.me](https://tippin.me/?utm_source=wordpress&utm_campaign=wordpress-plugin&utm_medium=referral) to use this plugin**
 
-== Changelog ==
+## Changelog 
 
 = 0.1.0 =
 * Initial GitHub release.
@@ -39,4 +39,3 @@ Requires at least: 3.0
 Tested up to: 5.1.1
 Stable tag: trunk
 License: GPLv3 or later
-

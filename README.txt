@@ -1,8 +1,15 @@
-# Tippin.me for WordPress
+=== Tippin.me for WordPress ===
+Contributors: danielmcclure, eiprol
+Donate link: https://tippin.me/@danielmcclure
+Tags: bitcoin, lightning, donate, donations, cryptocurrency
+Requires at least: 3.0
+Tested up to: 5.1.1
+Stable tag: trunk
+License: GPLv3 or later
 
 Tippin.me for WordPress allows you to easily integrate Tippin.me links below your WordPress posts to accept Bitcoin Lightning donations.
 
-## Detailed Description
+== Description ==
 
 Tippin.me is adverised as a service to receive tips and micro-payments everywhere with a Lightning Network wallet that you can cash out at anytime. 
 
@@ -17,7 +24,7 @@ If you find this plugin useful, please consider leaving a lightning tip for [@ei
 
 **Thanks for your support!**
 
-## Installation 
+== Installation ==
 
 1. Upload `tippin.me-for-wordpress` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the ‘Plugins’ menu in WordPress
@@ -30,13 +37,4 @@ If you find this plugin useful, please consider leaving a lightning tip for [@ei
 
 = 0.1.0 =
 * Initial GitHub release.
-
-## WordPress Meta
-Contributors: danielmcclure, eiprol
-Donate link: https://tippin.me/@danielmcclure
-Tags: bitcoin, lightning, donate, donations, cryptocurrency
-Requires at least: 3.0
-Tested up to: 5.1.1
-Stable tag: trunk
-License: GPLv3 or later
 

@@ -124,7 +124,7 @@ function tippin_me_output() {
 	$tippin_me_username = $tippin_me_options['tippin_me_username'];
 
 	if( isset( $tippin_me_options['tippin_me_username'] ) && $tippin_me_options['tippin_me_username'] != '') {
-		echo '
+		return '
 		<!-- Beginning of tippin.me Button -->
 		<div id="tippin-button" data-dest="'. $tippin_me_username .'"></div>
 		<script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
